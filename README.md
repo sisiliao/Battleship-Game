@@ -1,6 +1,7 @@
 # Battleship-Game
  
 This is a battleship game that allows user play with PC (Randomly selects targets and place ships and granedes positions)
+Created on January 2017.
 
 Game Rules:
 8X8 board 
